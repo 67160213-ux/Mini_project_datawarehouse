@@ -1,0 +1,361 @@
+Date,Day,Patient_ID,Diagnosis,Pain_Score_AI,HRV_RMSSD,Gait_Symmetry_Score,Daily_Steps,Intervention_Active
+2026-09-05,1,PT-1001,Diabetic Peripheral Neuropathy,7.7,18.3,62.4,3073,Baseline/Pre-intervention
+2026-09-06,2,PT-1001,Diabetic Peripheral Neuropathy,7.4,19.5,63.8,3297,Baseline/Pre-intervention
+2026-09-07,3,PT-1001,Diabetic Peripheral Neuropathy,7.2,20.4,64.7,3449,Baseline/Pre-intervention
+2026-09-08,4,PT-1001,Diabetic Peripheral Neuropathy,8.0,18.8,62.7,3521,Baseline/Pre-intervention
+2026-09-09,5,PT-1001,Diabetic Peripheral Neuropathy,6.6,22.9,67.5,3286,Baseline/Pre-intervention
+2026-09-10,6,PT-1001,Diabetic Peripheral Neuropathy,7.3,21.7,66.0,3445,Baseline/Pre-intervention
+2026-09-11,7,PT-1001,Diabetic Peripheral Neuropathy,7.1,22.5,66.9,3684,Baseline/Pre-intervention
+2026-09-12,8,PT-1001,Diabetic Peripheral Neuropathy,7.2,22.8,67.2,3970,Baseline/Pre-intervention
+2026-09-13,9,PT-1001,Diabetic Peripheral Neuropathy,8.5,19.9,63.7,4128,Baseline/Pre-intervention
+2026-09-14,10,PT-1001,Diabetic Peripheral Neuropathy,6.7,25.0,69.7,4086,Baseline/Pre-intervention
+2026-09-15,11,PT-1001,Diabetic Peripheral Neuropathy,7.2,24.2,68.6,4088,Baseline/Pre-intervention
+2026-09-16,12,PT-1001,Diabetic Peripheral Neuropathy,6.9,25.3,69.9,4493,Baseline/Pre-intervention
+2026-09-17,13,PT-1001,Diabetic Peripheral Neuropathy,6.2,27.6,72.6,4417,Yes
+2026-09-18,14,PT-1001,Diabetic Peripheral Neuropathy,6.8,26.4,71.1,4856,Yes
+2026-09-19,15,PT-1001,Diabetic Peripheral Neuropathy,5.7,29.9,75.1,4821,Yes
+2026-09-20,16,PT-1001,Diabetic Peripheral Neuropathy,5.6,30.5,75.8,5002,Yes
+2026-09-21,17,PT-1001,Diabetic Peripheral Neuropathy,6.0,30.0,75.2,4873,Yes
+2026-09-22,18,PT-1001,Diabetic Peripheral Neuropathy,5.6,31.4,76.7,5341,Yes
+2026-09-23,19,PT-1001,Diabetic Peripheral Neuropathy,4.8,33.9,79.7,5317,Yes
+2026-09-24,20,PT-1001,Diabetic Peripheral Neuropathy,5.6,32.5,77.9,5578,Yes
+2026-09-25,21,PT-1001,Diabetic Peripheral Neuropathy,4.8,34.9,80.6,5530,Yes
+2026-09-26,22,PT-1001,Diabetic Peripheral Neuropathy,3.9,37.5,83.8,5622,Yes
+2026-09-27,23,PT-1001,Diabetic Peripheral Neuropathy,4.7,36.1,81.9,6057,Yes
+2026-09-28,24,PT-1001,Diabetic Peripheral Neuropathy,4.2,37.6,83.7,5614,Yes
+2026-09-29,25,PT-1001,Diabetic Peripheral Neuropathy,4.2,38.2,84.3,5748,Yes
+2026-09-30,26,PT-1001,Diabetic Peripheral Neuropathy,3.6,40.1,86.5,6098,Yes
+2026-10-01,27,PT-1001,Diabetic Peripheral Neuropathy,3.9,40.0,86.3,6123,Yes
+2026-10-02,28,PT-1001,Diabetic Peripheral Neuropathy,3.0,43.2,90.0,6523,Yes
+2026-10-03,29,PT-1001,Diabetic Peripheral Neuropathy,3.0,43.1,89.9,6832,Yes
+2026-10-04,30,PT-1001,Diabetic Peripheral Neuropathy,3.0,44.0,90.0,6792,Yes
+2026-09-05,1,PT-1002,Fibromyalgia Syndrome,5.6,29.8,74.8,2926,Baseline/Pre-intervention
+2026-09-06,2,PT-1002,Fibromyalgia Syndrome,5.8,30.0,74.9,2937,Baseline/Pre-intervention
+2026-09-07,3,PT-1002,Fibromyalgia Syndrome,5.5,31.1,76.0,3290,Baseline/Pre-intervention
+2026-09-08,4,PT-1002,Fibromyalgia Syndrome,5.0,32.6,77.4,3242,Baseline/Pre-intervention
+2026-09-09,5,PT-1002,Fibromyalgia Syndrome,4.7,33.6,78.4,3366,Baseline/Pre-intervention
+2026-09-10,6,PT-1002,Fibromyalgia Syndrome,5.3,32.8,77.5,3912,Baseline/Pre-intervention
+2026-09-11,7,PT-1002,Fibromyalgia Syndrome,4.7,34.6,79.2,3963,Baseline/Pre-intervention
+2026-09-12,8,PT-1002,Fibromyalgia Syndrome,4.5,35.6,80.1,3977,Baseline/Pre-intervention
+2026-09-13,9,PT-1002,Fibromyalgia Syndrome,6.8,31.4,75.9,3745,Baseline/Pre-intervention
+2026-09-14,10,PT-1002,Fibromyalgia Syndrome,5.1,35.2,79.6,4299,Baseline/Pre-intervention
+2026-09-15,11,PT-1002,Fibromyalgia Syndrome,5.6,34.8,79.2,3987,Baseline/Pre-intervention
+2026-09-16,12,PT-1002,Fibromyalgia Syndrome,4.6,37.2,81.5,4130,Baseline/Pre-intervention
+2026-09-17,13,PT-1002,Fibromyalgia Syndrome,4.5,38.0,82.2,4502,Yes
+2026-09-18,14,PT-1002,Fibromyalgia Syndrome,4.5,38.6,82.7,4372,Yes
+2026-09-19,15,PT-1002,Fibromyalgia Syndrome,4.1,39.8,83.9,4756,Yes
+2026-09-20,16,PT-1002,Fibromyalgia Syndrome,4.5,39.6,83.6,5080,Yes
+2026-09-21,17,PT-1002,Fibromyalgia Syndrome,3.9,41.1,85.1,5241,Yes
+2026-09-22,18,PT-1002,Fibromyalgia Syndrome,3.1,43.2,87.1,5399,Yes
+2026-09-23,19,PT-1002,Fibromyalgia Syndrome,3.3,43.4,87.2,5025,Yes
+2026-09-24,20,PT-1002,Fibromyalgia Syndrome,3.2,44.2,87.9,5478,Yes
+2026-09-25,21,PT-1002,Fibromyalgia Syndrome,3.0,45.0,88.7,5269,Yes
+2026-09-26,22,PT-1002,Fibromyalgia Syndrome,2.9,45.8,89.4,5639,Yes
+2026-09-27,23,PT-1002,Fibromyalgia Syndrome,2.7,46.6,90.1,5584,Yes
+2026-09-28,24,PT-1002,Fibromyalgia Syndrome,1.5,49.5,93.0,5728,Yes
+2026-09-29,25,PT-1002,Fibromyalgia Syndrome,1.7,49.6,93.0,5900,Yes
+2026-09-30,26,PT-1002,Fibromyalgia Syndrome,1.3,51.0,94.0,6121,Yes
+2026-10-01,27,PT-1002,Fibromyalgia Syndrome,1.0,52.5,94.0,6558,Yes
+2026-10-02,28,PT-1002,Fibromyalgia Syndrome,1.3,51.8,94.0,6689,Yes
+2026-10-03,29,PT-1002,Fibromyalgia Syndrome,1.5,52.0,94.0,6400,Yes
+2026-10-04,30,PT-1002,Fibromyalgia Syndrome,1.0,54.3,94.0,6862,Yes
+2026-09-05,1,PT-1003,Post-Op Knee Arthroplasty,8.3,15.5,55.4,3092,Baseline/Pre-intervention
+2026-09-06,2,PT-1003,Post-Op Knee Arthroplasty,8.3,16.4,56.2,3071,Baseline/Pre-intervention
+2026-09-07,3,PT-1003,Post-Op Knee Arthroplasty,7.3,20.3,60.5,3490,Baseline/Pre-intervention
+2026-09-08,4,PT-1003,Post-Op Knee Arthroplasty,7.3,20.8,60.9,3487,Baseline/Pre-intervention
+2026-09-09,5,PT-1003,Post-Op Knee Arthroplasty,7.5,20.6,60.5,3241,Baseline/Pre-intervention
+2026-09-10,6,PT-1003,Post-Op Knee Arthroplasty,7.7,20.6,60.3,3352,Baseline/Pre-intervention
+2026-09-11,7,PT-1003,Post-Op Knee Arthroplasty,7.7,21.1,60.7,3859,Baseline/Pre-intervention
+2026-09-12,8,PT-1003,Post-Op Knee Arthroplasty,7.4,22.8,62.4,4056,Baseline/Pre-intervention
+2026-09-13,9,PT-1003,Post-Op Knee Arthroplasty,8.7,18.9,57.8,3763,Baseline/Pre-intervention
+2026-09-14,10,PT-1003,Post-Op Knee Arthroplasty,6.5,27.1,66.9,4414,Baseline/Pre-intervention
+2026-09-15,11,PT-1003,Post-Op Knee Arthroplasty,6.4,28.2,68.0,4019,Baseline/Pre-intervention
+2026-09-16,12,PT-1003,Post-Op Knee Arthroplasty,6.6,28.0,67.5,4536,Baseline/Pre-intervention
+2026-09-17,13,PT-1003,Post-Op Knee Arthroplasty,6.6,28.6,68.1,4791,Yes
+2026-09-18,14,PT-1003,Post-Op Knee Arthroplasty,5.7,32.3,72.0,4350,Yes
+2026-09-19,15,PT-1003,Post-Op Knee Arthroplasty,6.1,31.5,70.9,4822,Yes
+2026-09-20,16,PT-1003,Post-Op Knee Arthroplasty,5.3,35.0,74.7,4646,Yes
+2026-09-21,17,PT-1003,Post-Op Knee Arthroplasty,4.7,37.4,77.3,4994,Yes
+2026-09-22,18,PT-1003,Post-Op Knee Arthroplasty,4.9,37.3,77.0,5222,Yes
+2026-09-23,19,PT-1003,Post-Op Knee Arthroplasty,3.7,42.4,82.5,5099,Yes
+2026-09-24,20,PT-1003,Post-Op Knee Arthroplasty,4.3,40.8,80.6,5163,Yes
+2026-09-25,21,PT-1003,Post-Op Knee Arthroplasty,3.6,43.8,83.7,5290,Yes
+2026-09-26,22,PT-1003,Post-Op Knee Arthroplasty,4.3,42.0,81.5,5872,Yes
+2026-09-27,23,PT-1003,Post-Op Knee Arthroplasty,2.7,48.0,88.2,5603,Yes
+2026-09-28,24,PT-1003,Post-Op Knee Arthroplasty,2.9,47.9,87.9,6172,Yes
+2026-09-29,25,PT-1003,Post-Op Knee Arthroplasty,2.9,48.7,88.5,6186,Yes
+2026-09-30,26,PT-1003,Post-Op Knee Arthroplasty,3.4,47.5,87.0,6446,Yes
+2026-10-01,27,PT-1003,Post-Op Knee Arthroplasty,1.7,54.1,94.3,6068,Yes
+2026-10-02,28,PT-1003,Post-Op Knee Arthroplasty,2.6,51.2,90.9,6273,Yes
+2026-10-03,29,PT-1003,Post-Op Knee Arthroplasty,2.1,53.6,93.4,6530,Yes
+2026-10-04,30,PT-1003,Post-Op Knee Arthroplasty,1.5,58.0,95.0,6592,Yes
+2026-09-05,1,PT-1004,Lumbar Radiculopathy,5.7,29.6,74.6,2903,Baseline/Pre-intervention
+2026-09-06,2,PT-1004,Lumbar Radiculopathy,5.7,30.0,75.0,3043,Baseline/Pre-intervention
+2026-09-07,3,PT-1004,Lumbar Radiculopathy,5.6,30.8,75.6,3241,Baseline/Pre-intervention
+2026-09-08,4,PT-1004,Lumbar Radiculopathy,5.5,31.5,76.3,3333,Baseline/Pre-intervention
+2026-09-09,5,PT-1004,Lumbar Radiculopathy,4.4,34.3,79.0,3727,Baseline/Pre-intervention
+2026-09-10,6,PT-1004,Lumbar Radiculopathy,4.6,34.4,79.0,3432,Baseline/Pre-intervention
+2026-09-11,7,PT-1004,Lumbar Radiculopathy,4.9,34.1,78.7,3901,Baseline/Pre-intervention
+2026-09-12,8,PT-1004,Lumbar Radiculopathy,4.7,35.0,79.6,3910,Baseline/Pre-intervention
+2026-09-13,9,PT-1004,Lumbar Radiculopathy,7.0,31.0,75.4,4048,Baseline/Pre-intervention
+2026-09-14,10,PT-1004,Lumbar Radiculopathy,5.4,34.8,79.2,4097,Baseline/Pre-intervention
+2026-09-15,11,PT-1004,Lumbar Radiculopathy,4.7,36.6,80.9,4440,Baseline/Pre-intervention
+2026-09-16,12,PT-1004,Lumbar Radiculopathy,4.4,37.6,81.9,4472,Baseline/Pre-intervention
+2026-09-17,13,PT-1004,Lumbar Radiculopathy,4.6,37.8,82.0,4646,Yes
+2026-09-18,14,PT-1004,Lumbar Radiculopathy,4.2,39.1,83.3,4613,Yes
+2026-09-19,15,PT-1004,Lumbar Radiculopathy,4.3,39.5,83.5,4515,Yes
+2026-09-20,16,PT-1004,Lumbar Radiculopathy,3.8,40.8,84.8,5155,Yes
+2026-09-21,17,PT-1004,Lumbar Radiculopathy,3.3,42.3,86.3,5027,Yes
+2026-09-22,18,PT-1004,Lumbar Radiculopathy,3.2,43.1,87.0,5105,Yes
+2026-09-23,19,PT-1004,Lumbar Radiculopathy,3.4,43.2,87.0,5069,Yes
+2026-09-24,20,PT-1004,Lumbar Radiculopathy,2.8,44.8,88.6,5523,Yes
+2026-09-25,21,PT-1004,Lumbar Radiculopathy,2.9,45.3,88.9,5733,Yes
+2026-09-26,22,PT-1004,Lumbar Radiculopathy,2.0,47.5,91.1,5852,Yes
+2026-09-27,23,PT-1004,Lumbar Radiculopathy,2.6,46.7,90.2,5879,Yes
+2026-09-28,24,PT-1004,Lumbar Radiculopathy,2.2,48.0,91.5,6069,Yes
+2026-09-29,25,PT-1004,Lumbar Radiculopathy,2.8,47.4,90.8,5838,Yes
+2026-09-30,26,PT-1004,Lumbar Radiculopathy,2.5,48.4,91.8,6413,Yes
+2026-10-01,27,PT-1004,Lumbar Radiculopathy,2.2,49.7,92.9,6182,Yes
+2026-10-02,28,PT-1004,Lumbar Radiculopathy,1.2,52.1,94.0,6156,Yes
+2026-10-03,29,PT-1004,Lumbar Radiculopathy,1.6,51.9,94.0,6524,Yes
+2026-10-04,30,PT-1004,Lumbar Radiculopathy,1.0,54.3,94.0,6589,Yes
+2026-09-05,1,PT-1005,Osteoarthritis Knee,5.2,30.5,75.5,2761,Baseline/Pre-intervention
+2026-09-06,2,PT-1005,Osteoarthritis Knee,4.9,31.7,76.7,3421,Baseline/Pre-intervention
+2026-09-07,3,PT-1005,Osteoarthritis Knee,5.1,31.8,76.6,2971,Baseline/Pre-intervention
+2026-09-08,4,PT-1005,Osteoarthritis Knee,5.6,31.2,76.0,3256,Baseline/Pre-intervention
+2026-09-09,5,PT-1005,Osteoarthritis Knee,5.0,33.0,77.7,3589,Baseline/Pre-intervention
+2026-09-10,6,PT-1005,Osteoarthritis Knee,5.5,32.5,77.2,3896,Baseline/Pre-intervention
+2026-09-11,7,PT-1005,Osteoarthritis Knee,5.8,32.5,77.1,3528,Baseline/Pre-intervention
+2026-09-12,8,PT-1005,Osteoarthritis Knee,5.3,33.8,78.3,3684,Baseline/Pre-intervention
+2026-09-13,9,PT-1005,Osteoarthritis Knee,7.1,30.8,75.3,4181,Baseline/Pre-intervention
+2026-09-14,10,PT-1005,Osteoarthritis Knee,5.6,34.3,78.7,4323,Baseline/Pre-intervention
+2026-09-15,11,PT-1005,Osteoarthritis Knee,5.4,35.2,79.5,4553,Baseline/Pre-intervention
+2026-09-16,12,PT-1005,Osteoarthritis Knee,4.7,37.0,81.3,4101,Baseline/Pre-intervention
+2026-09-17,13,PT-1005,Osteoarthritis Knee,4.7,37.5,81.7,4472,Yes
+2026-09-18,14,PT-1005,Osteoarthritis Knee,4.8,37.8,82.0,4575,Yes
+2026-09-19,15,PT-1005,Osteoarthritis Knee,4.2,39.6,83.7,4642,Yes
+2026-09-20,16,PT-1005,Osteoarthritis Knee,3.7,41.1,85.1,4992,Yes
+2026-09-21,17,PT-1005,Osteoarthritis Knee,3.9,41.2,85.1,5242,Yes
+2026-09-22,18,PT-1005,Osteoarthritis Knee,3.8,41.8,85.7,4881,Yes
+2026-09-23,19,PT-1005,Osteoarthritis Knee,2.7,44.6,88.4,5479,Yes
+2026-09-24,20,PT-1005,Osteoarthritis Knee,2.5,45.5,89.2,5616,Yes
+2026-09-25,21,PT-1005,Osteoarthritis Knee,2.9,45.1,88.8,5302,Yes
+2026-09-26,22,PT-1005,Osteoarthritis Knee,3.0,45.5,89.1,5611,Yes
+2026-09-27,23,PT-1005,Osteoarthritis Knee,1.7,48.7,92.2,6016,Yes
+2026-09-28,24,PT-1005,Osteoarthritis Knee,2.9,46.7,90.2,5651,Yes
+2026-09-29,25,PT-1005,Osteoarthritis Knee,1.4,50.1,93.5,5959,Yes
+2026-09-30,26,PT-1005,Osteoarthritis Knee,1.7,50.1,93.5,5923,Yes
+2026-10-01,27,PT-1005,Osteoarthritis Knee,2.0,50.0,93.3,6353,Yes
+2026-10-02,28,PT-1005,Osteoarthritis Knee,1.8,51.0,94.0,6120,Yes
+2026-10-03,29,PT-1005,Osteoarthritis Knee,1.0,53.4,94.0,6750,Yes
+2026-10-04,30,PT-1005,Osteoarthritis Knee,1.3,52.8,94.0,6563,Yes
+2026-09-05,1,PT-1006,Diabetic Peripheral Neuropathy,5.2,30.7,75.7,2816,Baseline/Pre-intervention
+2026-09-06,2,PT-1006,Diabetic Peripheral Neuropathy,5.4,30.7,75.6,2959,Baseline/Pre-intervention
+2026-09-07,3,PT-1006,Diabetic Peripheral Neuropathy,4.6,32.9,77.7,3032,Baseline/Pre-intervention
+2026-09-08,4,PT-1006,Diabetic Peripheral Neuropathy,5.5,31.5,76.3,3292,Baseline/Pre-intervention
+2026-09-09,5,PT-1006,Diabetic Peripheral Neuropathy,5.4,32.3,77.0,3607,Baseline/Pre-intervention
+2026-09-10,6,PT-1006,Diabetic Peripheral Neuropathy,5.1,33.3,78.0,3379,Baseline/Pre-intervention
+2026-09-11,7,PT-1006,Diabetic Peripheral Neuropathy,5.6,32.8,77.4,3874,Baseline/Pre-intervention
+2026-09-12,8,PT-1006,Diabetic Peripheral Neuropathy,5.3,33.9,78.4,4098,Baseline/Pre-intervention
+2026-09-13,9,PT-1006,Diabetic Peripheral Neuropathy,7.1,30.8,75.2,4183,Baseline/Pre-intervention
+2026-09-14,10,PT-1006,Diabetic Peripheral Neuropathy,5.5,34.5,78.9,3851,Baseline/Pre-intervention
+2026-09-15,11,PT-1006,Diabetic Peripheral Neuropathy,4.3,37.4,81.7,4338,Baseline/Pre-intervention
+2026-09-16,12,PT-1006,Diabetic Peripheral Neuropathy,4.5,37.5,81.8,4100,Baseline/Pre-intervention
+2026-09-17,13,PT-1006,Diabetic Peripheral Neuropathy,4.7,37.6,81.8,4535,Yes
+2026-09-18,14,PT-1006,Diabetic Peripheral Neuropathy,3.9,39.7,83.9,4523,Yes
+2026-09-19,15,PT-1006,Diabetic Peripheral Neuropathy,3.8,40.5,84.5,4974,Yes
+2026-09-20,16,PT-1006,Diabetic Peripheral Neuropathy,3.4,41.8,85.8,4744,Yes
+2026-09-21,17,PT-1006,Diabetic Peripheral Neuropathy,3.4,42.1,86.1,5186,Yes
+2026-09-22,18,PT-1006,Diabetic Peripheral Neuropathy,2.8,43.8,87.7,5410,Yes
+2026-09-23,19,PT-1006,Diabetic Peripheral Neuropathy,4.0,42.1,85.9,5429,Yes
+2026-09-24,20,PT-1006,Diabetic Peripheral Neuropathy,2.4,45.7,89.5,5115,Yes
+2026-09-25,21,PT-1006,Diabetic Peripheral Neuropathy,3.3,44.3,88.0,5456,Yes
+2026-09-26,22,PT-1006,Diabetic Peripheral Neuropathy,2.5,46.5,90.1,5598,Yes
+2026-09-27,23,PT-1006,Diabetic Peripheral Neuropathy,2.6,46.8,90.4,5548,Yes
+2026-09-28,24,PT-1006,Diabetic Peripheral Neuropathy,1.8,48.9,92.3,5829,Yes
+2026-09-29,25,PT-1006,Diabetic Peripheral Neuropathy,2.0,49.0,92.4,5838,Yes
+2026-09-30,26,PT-1006,Diabetic Peripheral Neuropathy,2.4,48.8,92.1,6376,Yes
+2026-10-01,27,PT-1006,Diabetic Peripheral Neuropathy,1.6,50.8,94.0,6510,Yes
+2026-10-02,28,PT-1006,Diabetic Peripheral Neuropathy,1.4,51.6,94.0,6595,Yes
+2026-10-03,29,PT-1006,Diabetic Peripheral Neuropathy,1.2,52.5,94.0,6810,Yes
+2026-10-04,30,PT-1006,Diabetic Peripheral Neuropathy,1.1,53.4,94.0,6830,Yes
+2026-09-05,1,PT-1007,Post-Op Knee Arthroplasty,5.0,31.1,76.1,3156,Baseline/Pre-intervention
+2026-09-06,2,PT-1007,Post-Op Knee Arthroplasty,5.2,31.2,76.1,2826,Baseline/Pre-intervention
+2026-09-07,3,PT-1007,Post-Op Knee Arthroplasty,5.4,31.2,76.1,3398,Baseline/Pre-intervention
+2026-09-08,4,PT-1007,Post-Op Knee Arthroplasty,5.5,31.6,76.4,3528,Baseline/Pre-intervention
+2026-09-09,5,PT-1007,Post-Op Knee Arthroplasty,5.6,31.8,76.6,3553,Baseline/Pre-intervention
+2026-09-10,6,PT-1007,Post-Op Knee Arthroplasty,5.7,32.1,76.8,3427,Baseline/Pre-intervention
+2026-09-11,7,PT-1007,Post-Op Knee Arthroplasty,5.1,33.7,78.3,3897,Baseline/Pre-intervention
+2026-09-12,8,PT-1007,Post-Op Knee Arthroplasty,4.6,35.3,79.8,3703,Baseline/Pre-intervention
+2026-09-13,9,PT-1007,Post-Op Knee Arthroplasty,6.4,32.1,76.6,3766,Baseline/Pre-intervention
+2026-09-14,10,PT-1007,Post-Op Knee Arthroplasty,5.1,35.3,79.7,4075,Baseline/Pre-intervention
+2026-09-15,11,PT-1007,Post-Op Knee Arthroplasty,5.1,35.8,80.2,4366,Baseline/Pre-intervention
+2026-09-16,12,PT-1007,Post-Op Knee Arthroplasty,4.6,37.2,81.5,4395,Baseline/Pre-intervention
+2026-09-17,13,PT-1007,Post-Op Knee Arthroplasty,5.1,36.9,81.1,4797,Yes
+2026-09-18,14,PT-1007,Post-Op Knee Arthroplasty,4.1,39.2,83.4,4420,Yes
+2026-09-19,15,PT-1007,Post-Op Knee Arthroplasty,3.9,40.2,84.2,4778,Yes
+2026-09-20,16,PT-1007,Post-Op Knee Arthroplasty,3.8,41.0,85.0,4697,Yes
+2026-09-21,17,PT-1007,Post-Op Knee Arthroplasty,4.0,41.0,84.9,5160,Yes
+2026-09-22,18,PT-1007,Post-Op Knee Arthroplasty,4.3,40.9,84.8,5299,Yes
+2026-09-23,19,PT-1007,Post-Op Knee Arthroplasty,3.4,43.2,87.0,5460,Yes
+2026-09-24,20,PT-1007,Post-Op Knee Arthroplasty,3.8,43.0,86.7,5440,Yes
+2026-09-25,21,PT-1007,Post-Op Knee Arthroplasty,3.5,44.0,87.6,5795,Yes
+2026-09-26,22,PT-1007,Post-Op Knee Arthroplasty,2.1,47.3,90.9,5440,Yes
+2026-09-27,23,PT-1007,Post-Op Knee Arthroplasty,2.5,47.1,90.6,5993,Yes
+2026-09-28,24,PT-1007,Post-Op Knee Arthroplasty,2.6,47.3,90.8,5681,Yes
+2026-09-29,25,PT-1007,Post-Op Knee Arthroplasty,2.1,48.9,92.3,5944,Yes
+2026-09-30,26,PT-1007,Post-Op Knee Arthroplasty,2.0,49.5,92.8,5991,Yes
+2026-10-01,27,PT-1007,Post-Op Knee Arthroplasty,1.1,51.7,94.0,6103,Yes
+2026-10-02,28,PT-1007,Post-Op Knee Arthroplasty,1.7,51.1,94.0,6302,Yes
+2026-10-03,29,PT-1007,Post-Op Knee Arthroplasty,1.0,53.9,94.0,6765,Yes
+2026-10-04,30,PT-1007,Post-Op Knee Arthroplasty,1.6,52.2,94.0,6732,Yes
+2026-09-05,1,PT-1008,Fibromyalgia Syndrome,5.2,30.6,75.6,2894,Baseline/Pre-intervention
+2026-09-06,2,PT-1008,Fibromyalgia Syndrome,6.1,29.3,74.3,2918,Baseline/Pre-intervention
+2026-09-07,3,PT-1008,Fibromyalgia Syndrome,5.4,31.3,76.1,3003,Baseline/Pre-intervention
+2026-09-08,4,PT-1008,Fibromyalgia Syndrome,5.4,31.7,76.5,3482,Baseline/Pre-intervention
+2026-09-09,5,PT-1008,Fibromyalgia Syndrome,5.0,33.1,77.8,3739,Baseline/Pre-intervention
+2026-09-10,6,PT-1008,Fibromyalgia Syndrome,5.5,32.5,77.2,3737,Baseline/Pre-intervention
+2026-09-11,7,PT-1008,Fibromyalgia Syndrome,5.7,32.7,77.3,3983,Baseline/Pre-intervention
+2026-09-12,8,PT-1008,Fibromyalgia Syndrome,5.9,32.8,77.3,3931,Baseline/Pre-intervention
+2026-09-13,9,PT-1008,Fibromyalgia Syndrome,6.1,32.7,77.2,3961,Baseline/Pre-intervention
+2026-09-14,10,PT-1008,Fibromyalgia Syndrome,4.3,36.9,81.3,3886,Baseline/Pre-intervention
+2026-09-15,11,PT-1008,Fibromyalgia Syndrome,4.4,37.2,81.6,4315,Baseline/Pre-intervention
+2026-09-16,12,PT-1008,Fibromyalgia Syndrome,4.7,37.2,81.4,4199,Baseline/Pre-intervention
+2026-09-17,13,PT-1008,Fibromyalgia Syndrome,4.8,37.3,81.5,4472,Yes
+2026-09-18,14,PT-1008,Fibromyalgia Syndrome,4.0,39.4,83.5,4648,Yes
+2026-09-19,15,PT-1008,Fibromyalgia Syndrome,4.0,40.0,84.1,4946,Yes
+2026-09-20,16,PT-1008,Fibromyalgia Syndrome,3.0,42.6,86.6,4627,Yes
+2026-09-21,17,PT-1008,Fibromyalgia Syndrome,3.4,42.1,86.1,5090,Yes
+2026-09-22,18,PT-1008,Fibromyalgia Syndrome,2.6,44.3,88.2,5378,Yes
+2026-09-23,19,PT-1008,Fibromyalgia Syndrome,3.6,42.7,86.5,5342,Yes
+2026-09-24,20,PT-1008,Fibromyalgia Syndrome,3.3,44.0,87.7,5613,Yes
+2026-09-25,21,PT-1008,Fibromyalgia Syndrome,2.8,45.4,89.0,5247,Yes
+2026-09-26,22,PT-1008,Fibromyalgia Syndrome,2.3,46.9,90.5,5551,Yes
+2026-09-27,23,PT-1008,Fibromyalgia Syndrome,2.2,47.7,91.2,5524,Yes
+2026-09-28,24,PT-1008,Fibromyalgia Syndrome,1.7,49.1,92.6,5885,Yes
+2026-09-29,25,PT-1008,Fibromyalgia Syndrome,1.8,49.4,92.8,6276,Yes
+2026-09-30,26,PT-1008,Fibromyalgia Syndrome,1.4,50.7,94.0,6010,Yes
+2026-10-01,27,PT-1008,Fibromyalgia Syndrome,1.5,51.0,94.0,6386,Yes
+2026-10-02,28,PT-1008,Fibromyalgia Syndrome,1.0,53.3,94.0,6186,Yes
+2026-10-03,29,PT-1008,Fibromyalgia Syndrome,1.1,52.7,94.0,6473,Yes
+2026-10-04,30,PT-1008,Fibromyalgia Syndrome,1.9,51.7,94.0,6483,Yes
+2026-09-05,1,PT-1009,Lumbar Radiculopathy,5.7,29.7,74.7,3068,Baseline/Pre-intervention
+2026-09-06,2,PT-1009,Lumbar Radiculopathy,6.1,29.3,74.3,3420,Baseline/Pre-intervention
+2026-09-07,3,PT-1009,Lumbar Radiculopathy,4.7,32.6,77.4,3234,Baseline/Pre-intervention
+2026-09-08,4,PT-1009,Lumbar Radiculopathy,4.8,32.9,77.7,3399,Baseline/Pre-intervention
+2026-09-09,5,PT-1009,Lumbar Radiculopathy,4.4,34.2,78.9,3582,Baseline/Pre-intervention
+2026-09-10,6,PT-1009,Lumbar Radiculopathy,5.5,32.6,77.2,3621,Baseline/Pre-intervention
+2026-09-11,7,PT-1009,Lumbar Radiculopathy,4.9,34.2,78.8,3809,Baseline/Pre-intervention
+2026-09-12,8,PT-1009,Lumbar Radiculopathy,4.0,36.5,81.0,4031,Baseline/Pre-intervention
+2026-09-13,9,PT-1009,Lumbar Radiculopathy,6.3,32.4,76.9,3849,Baseline/Pre-intervention
+2026-09-14,10,PT-1009,Lumbar Radiculopathy,4.5,36.4,80.8,4082,Baseline/Pre-intervention
+2026-09-15,11,PT-1009,Lumbar Radiculopathy,5.0,36.0,80.4,4083,Baseline/Pre-intervention
+2026-09-16,12,PT-1009,Lumbar Radiculopathy,4.6,37.2,81.5,4596,Baseline/Pre-intervention
+2026-09-17,13,PT-1009,Lumbar Radiculopathy,4.8,37.3,81.5,4413,Yes
+2026-09-18,14,PT-1009,Lumbar Radiculopathy,4.5,38.5,82.6,4737,Yes
+2026-09-19,15,PT-1009,Lumbar Radiculopathy,4.6,38.8,82.9,4798,Yes
+2026-09-20,16,PT-1009,Lumbar Radiculopathy,3.9,40.8,84.8,5009,Yes
+2026-09-21,17,PT-1009,Lumbar Radiculopathy,3.4,42.2,86.2,4950,Yes
+2026-09-22,18,PT-1009,Lumbar Radiculopathy,2.8,44.0,87.8,5384,Yes
+2026-09-23,19,PT-1009,Lumbar Radiculopathy,3.1,43.8,87.6,5069,Yes
+2026-09-24,20,PT-1009,Lumbar Radiculopathy,3.0,44.6,88.3,5425,Yes
+2026-09-25,21,PT-1009,Lumbar Radiculopathy,2.9,45.2,88.9,5743,Yes
+2026-09-26,22,PT-1009,Lumbar Radiculopathy,2.3,46.9,90.5,5618,Yes
+2026-09-27,23,PT-1009,Lumbar Radiculopathy,2.4,47.2,90.7,5495,Yes
+2026-09-28,24,PT-1009,Lumbar Radiculopathy,2.1,48.3,91.8,5873,Yes
+2026-09-29,25,PT-1009,Lumbar Radiculopathy,2.5,48.1,91.5,6060,Yes
+2026-09-30,26,PT-1009,Lumbar Radiculopathy,1.6,50.2,93.6,6184,Yes
+2026-10-01,27,PT-1009,Lumbar Radiculopathy,2.1,49.8,93.1,6542,Yes
+2026-10-02,28,PT-1009,Lumbar Radiculopathy,1.8,51.0,94.0,6538,Yes
+2026-10-03,29,PT-1009,Lumbar Radiculopathy,1.5,52.0,94.0,6563,Yes
+2026-10-04,30,PT-1009,Lumbar Radiculopathy,1.0,53.6,94.0,6608,Yes
+2026-09-05,1,PT-1010,Osteoarthritis Knee,5.8,29.5,74.5,3158,Baseline/Pre-intervention
+2026-09-06,2,PT-1010,Osteoarthritis Knee,5.4,30.8,75.7,2962,Baseline/Pre-intervention
+2026-09-07,3,PT-1010,Osteoarthritis Knee,5.1,31.7,76.6,3465,Baseline/Pre-intervention
+2026-09-08,4,PT-1010,Osteoarthritis Knee,4.8,33.0,77.8,3375,Baseline/Pre-intervention
+2026-09-09,5,PT-1010,Osteoarthritis Knee,5.4,32.2,76.9,3434,Baseline/Pre-intervention
+2026-09-10,6,PT-1010,Osteoarthritis Knee,5.3,32.9,77.6,3602,Baseline/Pre-intervention
+2026-09-11,7,PT-1010,Osteoarthritis Knee,5.2,33.6,78.2,3624,Baseline/Pre-intervention
+2026-09-12,8,PT-1010,Osteoarthritis Knee,5.1,34.3,78.8,3590,Baseline/Pre-intervention
+2026-09-13,9,PT-1010,Osteoarthritis Knee,6.9,31.2,75.7,4286,Baseline/Pre-intervention
+2026-09-14,10,PT-1010,Osteoarthritis Knee,4.2,37.0,81.4,3971,Baseline/Pre-intervention
+2026-09-15,11,PT-1010,Osteoarthritis Knee,5.0,36.0,80.3,4367,Baseline/Pre-intervention
+2026-09-16,12,PT-1010,Osteoarthritis Knee,3.9,38.7,83.0,4388,Baseline/Pre-intervention
+2026-09-17,13,PT-1010,Osteoarthritis Knee,5.2,36.6,80.8,4641,Yes
+2026-09-18,14,PT-1010,Osteoarthritis Knee,4.1,39.2,83.4,4368,Yes
+2026-09-19,15,PT-1010,Osteoarthritis Knee,4.9,38.2,82.3,4617,Yes
+2026-09-20,16,PT-1010,Osteoarthritis Knee,3.3,42.0,86.0,4824,Yes
+2026-09-21,17,PT-1010,Osteoarthritis Knee,4.0,41.1,85.0,4829,Yes
+2026-09-22,18,PT-1010,Osteoarthritis Knee,2.5,44.4,88.3,4891,Yes
+2026-09-23,19,PT-1010,Osteoarthritis Knee,2.7,44.6,88.4,5427,Yes
+2026-09-24,20,PT-1010,Osteoarthritis Knee,3.5,43.4,87.2,5605,Yes
+2026-09-25,21,PT-1010,Osteoarthritis Knee,3.1,44.8,88.5,5710,Yes
+2026-09-26,22,PT-1010,Osteoarthritis Knee,3.2,45.2,88.8,5590,Yes
+2026-09-27,23,PT-1010,Osteoarthritis Knee,2.8,46.4,89.9,5896,Yes
+2026-09-28,24,PT-1010,Osteoarthritis Knee,2.7,47.2,90.6,5901,Yes
+2026-09-29,25,PT-1010,Osteoarthritis Knee,2.1,48.8,92.2,6261,Yes
+2026-09-30,26,PT-1010,Osteoarthritis Knee,1.7,50.2,93.5,6382,Yes
+2026-10-01,27,PT-1010,Osteoarthritis Knee,1.5,51.0,94.0,6151,Yes
+2026-10-02,28,PT-1010,Osteoarthritis Knee,1.8,50.9,94.0,6347,Yes
+2026-10-03,29,PT-1010,Osteoarthritis Knee,2.1,50.7,93.8,6260,Yes
+2026-10-04,30,PT-1010,Osteoarthritis Knee,1.0,54.2,94.0,6529,Yes
+2026-09-05,1,PT-1011,Diabetic Peripheral Neuropathy,5.1,30.8,75.8,3023,Baseline/Pre-intervention
+2026-09-06,2,PT-1011,Diabetic Peripheral Neuropathy,6.6,28.3,73.2,2955,Baseline/Pre-intervention
+2026-09-07,3,PT-1011,Diabetic Peripheral Neuropathy,5.3,31.3,76.2,3244,Baseline/Pre-intervention
+2026-09-08,4,PT-1011,Diabetic Peripheral Neuropathy,5.2,32.1,76.9,3362,Baseline/Pre-intervention
+2026-09-09,5,PT-1011,Diabetic Peripheral Neuropathy,4.7,33.5,78.2,3755,Baseline/Pre-intervention
+2026-09-10,6,PT-1011,Diabetic Peripheral Neuropathy,4.9,33.7,78.4,3466,Baseline/Pre-intervention
+2026-09-11,7,PT-1011,Diabetic Peripheral Neuropathy,4.6,34.7,79.3,3761,Baseline/Pre-intervention
+2026-09-12,8,PT-1011,Diabetic Peripheral Neuropathy,4.0,36.5,81.1,3948,Baseline/Pre-intervention
+2026-09-13,9,PT-1011,Diabetic Peripheral Neuropathy,6.7,31.5,76.0,3922,Baseline/Pre-intervention
+2026-09-14,10,PT-1011,Diabetic Peripheral Neuropathy,4.3,36.9,81.3,4299,Baseline/Pre-intervention
+2026-09-15,11,PT-1011,Diabetic Peripheral Neuropathy,5.1,35.7,80.0,4343,Baseline/Pre-intervention
+2026-09-16,12,PT-1011,Diabetic Peripheral Neuropathy,4.9,36.8,81.1,4143,Baseline/Pre-intervention
+2026-09-17,13,PT-1011,Diabetic Peripheral Neuropathy,4.6,37.9,82.1,4626,Yes
+2026-09-18,14,PT-1011,Diabetic Peripheral Neuropathy,4.3,38.8,83.0,4750,Yes
+2026-09-19,15,PT-1011,Diabetic Peripheral Neuropathy,3.9,40.1,84.2,4473,Yes
+2026-09-20,16,PT-1011,Diabetic Peripheral Neuropathy,3.7,41.1,85.1,5166,Yes
+2026-09-21,17,PT-1011,Diabetic Peripheral Neuropathy,3.9,41.2,85.1,5156,Yes
+2026-09-22,18,PT-1011,Diabetic Peripheral Neuropathy,2.9,43.6,87.5,5161,Yes
+2026-09-23,19,PT-1011,Diabetic Peripheral Neuropathy,3.7,42.6,86.4,5096,Yes
+2026-09-24,20,PT-1011,Diabetic Peripheral Neuropathy,2.8,44.8,88.5,5680,Yes
+2026-09-25,21,PT-1011,Diabetic Peripheral Neuropathy,3.3,44.4,88.1,5618,Yes
+2026-09-26,22,PT-1011,Diabetic Peripheral Neuropathy,2.6,46.4,90.0,5569,Yes
+2026-09-27,23,PT-1011,Diabetic Peripheral Neuropathy,2.8,46.4,89.9,5664,Yes
+2026-09-28,24,PT-1011,Diabetic Peripheral Neuropathy,2.2,48.0,91.5,5794,Yes
+2026-09-29,25,PT-1011,Diabetic Peripheral Neuropathy,2.1,48.9,92.3,6240,Yes
+2026-09-30,26,PT-1011,Diabetic Peripheral Neuropathy,1.3,50.8,94.0,6026,Yes
+2026-10-01,27,PT-1011,Diabetic Peripheral Neuropathy,2.1,49.8,93.1,6148,Yes
+2026-10-02,28,PT-1011,Diabetic Peripheral Neuropathy,1.0,53.1,94.0,6588,Yes
+2026-10-03,29,PT-1011,Diabetic Peripheral Neuropathy,1.4,52.2,94.0,6606,Yes
+2026-10-04,30,PT-1011,Diabetic Peripheral Neuropathy,1.0,53.4,94.0,6520,Yes
+2026-09-05,1,PT-1012,Fibromyalgia Syndrome,5.2,30.6,75.6,3059,Baseline/Pre-intervention
+2026-09-06,2,PT-1012,Fibromyalgia Syndrome,5.4,30.8,75.7,3386,Baseline/Pre-intervention
+2026-09-07,3,PT-1012,Fibromyalgia Syndrome,4.9,32.2,77.0,3167,Baseline/Pre-intervention
+2026-09-08,4,PT-1012,Fibromyalgia Syndrome,4.8,32.9,77.7,3514,Baseline/Pre-intervention
+2026-09-09,5,PT-1012,Fibromyalgia Syndrome,5.2,32.5,77.2,3237,Baseline/Pre-intervention
+2026-09-10,6,PT-1012,Fibromyalgia Syndrome,5.0,33.4,78.1,3617,Baseline/Pre-intervention
+2026-09-11,7,PT-1012,Fibromyalgia Syndrome,4.4,35.1,79.7,3603,Baseline/Pre-intervention
+2026-09-12,8,PT-1012,Fibromyalgia Syndrome,5.5,33.5,78.0,4009,Baseline/Pre-intervention
+2026-09-13,9,PT-1012,Fibromyalgia Syndrome,6.0,33.1,77.5,4083,Baseline/Pre-intervention
+2026-09-14,10,PT-1012,Fibromyalgia Syndrome,5.0,35.4,79.8,4014,Baseline/Pre-intervention
+2026-09-15,11,PT-1012,Fibromyalgia Syndrome,5.6,34.7,79.1,4078,Baseline/Pre-intervention
+2026-09-16,12,PT-1012,Fibromyalgia Syndrome,5.4,35.8,80.0,4206,Baseline/Pre-intervention
+2026-09-17,13,PT-1012,Fibromyalgia Syndrome,5.1,36.7,80.9,4483,Yes
+2026-09-18,14,PT-1012,Fibromyalgia Syndrome,4.3,38.9,83.1,4400,Yes
+2026-09-19,15,PT-1012,Fibromyalgia Syndrome,4.0,39.9,84.0,4930,Yes
+2026-09-20,16,PT-1012,Fibromyalgia Syndrome,4.1,40.3,84.3,4761,Yes
+2026-09-21,17,PT-1012,Fibromyalgia Syndrome,3.5,41.9,85.8,5201,Yes
+2026-09-22,18,PT-1012,Fibromyalgia Syndrome,3.5,42.6,86.5,5030,Yes
+2026-09-23,19,PT-1012,Fibromyalgia Syndrome,3.2,43.6,87.4,5292,Yes
+2026-09-24,20,PT-1012,Fibromyalgia Syndrome,3.5,43.5,87.3,5548,Yes
+2026-09-25,21,PT-1012,Fibromyalgia Syndrome,3.9,43.2,86.9,5471,Yes
+2026-09-26,22,PT-1012,Fibromyalgia Syndrome,2.7,46.0,89.6,5588,Yes
+2026-09-27,23,PT-1012,Fibromyalgia Syndrome,2.7,46.7,90.2,5749,Yes
+2026-09-28,24,PT-1012,Fibromyalgia Syndrome,1.8,48.8,92.3,6030,Yes
+2026-09-29,25,PT-1012,Fibromyalgia Syndrome,2.6,47.9,91.3,6191,Yes
+2026-09-30,26,PT-1012,Fibromyalgia Syndrome,2.0,49.5,92.8,6365,Yes
+2026-10-01,27,PT-1012,Fibromyalgia Syndrome,1.2,51.6,94.0,5999,Yes
+2026-10-02,28,PT-1012,Fibromyalgia Syndrome,1.7,51.1,94.0,6449,Yes
+2026-10-03,29,PT-1012,Fibromyalgia Syndrome,1.0,53.8,94.0,6759,Yes
+2026-10-04,30,PT-1012,Fibromyalgia Syndrome,1.7,52.0,94.0,6895,Yes

@@ -1,0 +1,138 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SOCKONE_Sensor_Data_Schema",
+  "description": "CHRONI-SENSE LABS SOCKONE Smart Sock Multimodal Physiological & Biomechanical Data Specification",
+  "type": "object",
+  "required": [
+    "Patient_ID",
+    "Timestamp",
+    "Heart_Rate_BPM",
+    "HRV_RMSSD",
+    "Gait_Symmetry_Score",
+    "Pressure_Asymmetry_Pct",
+    "Cadence_SPM",
+    "Peak_Heel_Pressure_kPa",
+    "Peak_Forefoot_Pressure_kPa",
+    "Fatigue_Level",
+    "Pain_Score_AI",
+    "Alert_Status"
+  ],
+  "properties": {
+    "Patient_ID": {
+      "type": "string",
+      "pattern": "^PT-[0-9]{4}$",
+      "description": "Unique anonymized patient identifier (e.g., PT-1001)"
+    },
+    "Patient_Name": {
+      "type": "string",
+      "description": "De-identified patient label or alias"
+    },
+    "Age": {
+      "type": "integer",
+      "minimum": 18,
+      "maximum": 100,
+      "description": "Patient age in years"
+    },
+    "Gender": {
+      "type": "string",
+      "enum": ["Male", "Female", "Other"]
+    },
+    "Diagnosis": {
+      "type": "string",
+      "enum": [
+        "Diabetic Peripheral Neuropathy",
+        "Fibromyalgia Syndrome",
+        "Post-Op Knee Arthroplasty",
+        "Lumbar Radiculopathy",
+        "Osteoarthritis Knee"
+      ],
+      "description": "Primary clinical diagnosis monitored"
+    },
+    "Timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 UTC timestamp of sensor recording"
+    },
+    "Heart_Rate_BPM": {
+      "type": "number",
+      "minimum": 40.0,
+      "maximum": 180.0,
+      "description": "Real-time heart rate in beats per minute derived from optical PPG sensor"
+    },
+    "HRV_RMSSD": {
+      "type": "number",
+      "minimum": 5.0,
+      "maximum": 120.0,
+      "unit": "ms",
+      "description": "Root Mean Square of Successive RR interval Differences. Lower values (<20 ms) indicate sympathetic dominance and acute pain/stress distress."
+    },
+    "Gait_Symmetry_Score": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 100.0,
+      "unit": "%",
+      "description": "Bilateral kinematic symmetry percentage derived from 6-axis IMU (100% = perfect symmetry; <70% = severe antalgic limping)"
+    },
+    "Pressure_Asymmetry_Pct": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 50.0,
+      "unit": "%",
+      "description": "Percentage discrepancy of ground reaction force load between left and right foot insole sensors (>20% indicates acute load avoidance)"
+    },
+    "Cadence_SPM": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 160.0,
+      "unit": "steps/min",
+      "description": "Locomotion cadence. Sharp declines indicate rapid onset of neuromuscular fatigue."
+    },
+    "Stride_Time_Variability_Pct": {
+      "type": "number",
+      "minimum": 0.5,
+      "maximum": 25.0,
+      "unit": "%",
+      "description": "Coefficient of variation for stride duration. Values >5% reflect gait instability and fall risk."
+    },
+    "Peak_Heel_Pressure_kPa": {
+      "type": "number",
+      "minimum": 50.0,
+      "maximum": 500.0,
+      "unit": "kPa",
+      "description": "Maximum pressure under calcaneal zone during heel strike"
+    },
+    "Peak_Forefoot_Pressure_kPa": {
+      "type": "number",
+      "minimum": 40.0,
+      "maximum": 450.0,
+      "unit": "kPa",
+      "description": "Maximum pressure across metatarsal heads during push-off"
+    },
+    "Daily_Step_Count": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 30000,
+      "description": "Cumulative step count recorded for the day"
+    },
+    "Fatigue_Level": {
+      "type": "string",
+      "enum": ["Low", "Moderate", "High", "Severe"],
+      "description": "Multimodal classification of physiological and physical fatigue"
+    },
+    "Pain_Score_AI": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 10.0,
+      "description": "Objective continuous pain index (0-10) calculated by ChroniSense Edge-AI model blending autonomic HRV suppression and antalgic biomechanical gait deviance."
+    },
+    "Alert_Status": {
+      "type": "string",
+      "enum": ["Normal", "Warning", "Critical"],
+      "description": "Real-time clinical triage alert flag based on threshold crossings"
+    },
+    "Recommended_Action": {
+      "type": "string",
+      "description": "Actionable decision recommendation for clinical team or patient app"
+    }
+  }
+}
