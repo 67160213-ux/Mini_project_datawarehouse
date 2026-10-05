@@ -171,30 +171,16 @@ streamlit run src/app.py
 
 ### 🖥️ 6.1 การเปิดสไลด์นำเสนอ (Interactive Presentation Deck)
 สามารถเปิดไฟล์สไลด์นำเสนอผ่าน Web Browser ได้ทันทีโดยไม่ต้องติดตั้งเซิร์ฟเวอร์:
-- ดับเบิลคลิกไฟล์ [presentation/index.html](file:///d:/Mini_project_datawarehouse/presentation/index.html) เพื่อเริ่มนำเสนอ
-- อ่านบทสคริปต์การนำเสนอฉบับเต็มได้ที่ [docs/presentation_slides.md](file:///d:/Mini_project_datawarehouse/docs/presentation_slides.md)
-- **คีย์ลัดสำหรับการนำเสนอ:**
-  - `ลูกศรขวา` หรือ `Spacebar` หรือ `Page Down`: เลื่อนไปสไลด์ถัดไป
-  - `ลูกศรซ้าย` หรือ `Page Up`: ย้อนกลับสไลด์ก่อนหน้า
-  - `Home` / `End`: ไปยังสไลด์แรก / สไลด์สุดท้าย
-  - `F`: สลับโหมดเต็มหน้าจอ (Fullscreen Mode)
-  - `Ctrl + P`: สั่งพิมพ์หรือ Save as PDF Slide Deck
-
+- สไลด์นำเสนอผ่าน Canva (แนะนำ): [SOCKONE Pitch Deck](https://canva.link/coxtvfa7kmy9xh1)
 ---
 
-## 👥 7. ข้อมูลสมาชิกกลุ่มผู้จัดทำ (Group Member Registration Template)
+## 👥 7. ข้อมูลสมาชิกกลุ่มผู้จัดทำ
 
-**รายวิชา:** Business Idea Creation  
-**ชื่อกลุ่มโครงการ:** CHRONI-SENSE LABS (ผลิตภัณฑ์ SOCKONE)  
+**ชื่อกลุ่มโครงการ:** SENSIA LABS (ผลิตภัณฑ์ SOCKONE)  
 
-| ลำดับ | รหัสนักศึกษา | ชื่อ - นามสกุล | บทบาทหน้าที่ในโครงการ (Role) | ขอบเขตงานที่รับผิดชอบ (Key Responsibilities & Deliverables) | สัดส่วนงาน (%) |
-| :---: | :---: | :--- | :--- | :--- | :---: |
-| 1 | `67160213` | นาย/นางสาว [หัวหน้าโครงการ] | **Product Owner & Business Strategist** | กำหนดวิสัยทัศน์ผลิตภัณฑ์, วิเคราะห์ Business Model & Health Economics ROI, บริหารภาพรวม | 25% |
-| 2 | `6716xxxx` | นาย/นางสาว [วิศวกรข้อมูล/AI] | **AI & Data Engineer Specialist** | ออกแบบ Data Schema, พัฒนาอัลกอริทึมจำลองสัญญาณเซนเซอร์ (PPG/IMU), คำนวณ Pain Score AI | 25% |
-| 3 | `6716xxxx` | นาย/นางสาว [ผู้ออกแบบ UX/UI] | **UX/UI Storytelling Dashboard Lead** | ออกแบบ Narrative Arc, สร้าง Interactive Dashboard ด้วย Streamlit + Plotly, วางระบบ Brand Identity | 25% |
-| 4 | `6716xxxx` | นาย/นางสาว [ที่ปรึกษาคลินิก] | **Clinical Domain & Medical Market Analyst** | ศึกษาความสัมพันธ์ทางสรีรวิทยา (HRV & Antalgic Gait), จัดทำ CDSS Rule-based Guidelines, เขียนเอกสารสรุป | 25% |
-
----
+| ลำดับ | รหัสนักศึกษา | ชื่อ - นามสกุล |
+| :---: | :---: | :--- | 
+| 1 | `67160213` | นาย ณฐกร ขาวใหญ่ |
 
 ## 📜 8. ลิขสิทธิ์และการอนุญาตให้ใช้งาน (License)
 

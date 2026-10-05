@@ -1,4 +1,4 @@
-# 📑 Presentation Deck Script: SOCKONE by CHRONI-SENSE LABS
+# 📑 Presentation Deck Script: SOCKONE by SENSIA LABS
 ### สไลด์นำเสนอโครงการ Dashboard เชิงเล่าเรื่อง (Storytelling Dashboard)
 **รายวิชา:** Business Idea Creation  
 **หัวข้อ:** การออกแบบ Storytelling Dashboard ผลิตภัณฑ์ "SOCKONE" ถุงเท้าอัจฉริยะประเมินความเจ็บปวดเรื้อรังและความเหนื่อยล้า  
@@ -8,7 +8,7 @@
 
 ## 🧭 โครงสร้างสไลด์ (Slide Outline: 10 Slides)
 
-- **Slide 1:** Title & Executive Pitch (หน้าปกโครงการ, แบรนด์ CHRONI-SENSE LABS, และผลิตภัณฑ์ SOCKONE)
+- **Slide 1:** Title & Executive Pitch (หน้าปกโครงการ, แบรนด์ SENSIA LABS, และผลิตภัณฑ์ SOCKONE)
 - **Slide 2:** Corporate Context & Problem Statement (บริบทธุรกิจ, ปัญหาความเจ็บปวดเรื้อรัง, และจุดบกพร่องของการวัดผลแบบเดิม)
 - **Slide 3:** Product Innovation & Sensor Architecture (ฮาร์ดแวร์ถุงเท้าอัจฉริยะ 3 เซนเซอร์หลัก: PPG, Insole Matrix, IMU)
 - **Slide 4:** [ส่วนที่ 1] ข้อมูลที่ใช้ (Data Specification, JSON Schema & Data Dictionary)
@@ -28,15 +28,15 @@
 ### Slide 1: Title & Executive Pitch
 - **หัวข้อสไลด์:** SOCKONE: Multimodal Pain & Fatigue Tele-Monitoring
 - **สโลแกน:** "From Subjective Guesswork to Objective Telemetric Precision"
-- **ชื่อบริษัท:** CHRONI-SENSE LABS Co., Ltd.
+- **ชื่อบริษัท:** SENSIA LABS Co., Ltd.
 - **รายวิชา:** Business Idea Creation
 - **คำบรรยายผู้นำเสนอ (Speaker Script):**
-  > "สวัสดีครับอาจารย์และเพื่อนๆ ทุกท่าน วันนี้กลุ่ม CHRONI-SENSE LABS มีความยินดีที่จะนำเสนอผลงานโครงการออกแบบ Storytelling Dashboard สำหรับนวัตกรรมถุงเท้าอัจฉริยะ 'SOCKONE' ซึ่งเป็นโซลูชัน Deep-Tech ด้านการแพทย์เพื่อปฏิวัติการประเมินความเจ็บปวดเรื้อรังและความเหนื่อยล้าของผู้ป่วยผ่านสัญญาณชีวภาพ HRV และพลศาสตร์การเดิน Gait Dynamics ครับ"
+  > "สวัสดีครับอาจารย์และเพื่อนๆ ทุกท่าน วันนี้กลุ่ม SENSIA LABS มีความยินดีที่จะนำเสนอผลงานโครงการออกแบบ Storytelling Dashboard สำหรับนวัตกรรมถุงเท้าอัจฉริยะ 'SOCKONE' ซึ่งเป็นโซลูชัน Deep-Tech ด้านการแพทย์เพื่อปฏิวัติการประเมินความเจ็บปวดเรื้อรังและความเหนื่อยล้าของผู้ป่วยผ่านสัญญาณชีวภาพ HRV และพลศาสตร์การเดิน Gait Dynamics ครับ"
 
 ---
 
 ### Slide 2: Corporate Context & The Unsolved Healthcare Crisis
-- **หัวข้อสไลด์:** ทำไมต้อง CHRONI-SENSE LABS และทำไมต้องเป็น SOCKONE?
+- **หัวข้อสไลด์:** ทำไมต้อง SENSIA LABS และทำไมต้องเป็น SOCKONE?
 - **ปัญหา (The Pain Point):**
   - ผู้ป่วยโรคเบาหวาน (DPN), โรคปวดกล้ามเนื้อ (Fibromyalgia) และผู้ป่วยผ่าตัดเปลี่ยนข้อเข่า ประสบปัญหาอาการปวดเรื้อรังและกำเริบแบบเฉียบพลัน (Flare-up) ขณะอยู่ที่บ้าน
   - การวัดความปวดในปัจจุบันใช้ **"คำพูดคนไข้ (Subjective VAS Scale 0-10)"** ซึ่งไม่ต่อเนื่อง ไม่สามารถคาดการณ์ล่วงหน้าได้
@@ -135,7 +135,7 @@
 ---
 
 ### Slide 9: [ส่วนที่ 3] รายชื่อสมาชิกกลุ่มและบทบาทหน้าที่ (Group Members)
-- **หัวข้อสไลด์:** โครงสร้างทีมงาน CHRONI-SENSE LABS
+- **หัวข้อสไลด์:** โครงสร้างทีมงาน SENSIA LABS
 - **การจัดสรรบทบาทตามความเชี่ยวชาญ:**
   1. **Product Owner & Business Strategist (25%):** วางแผนทิศทางธุรกิจ, ออกแบบ Value Proposition & Health Economics ROI
   2. **AI & Data Science Engineer (25%):** ออกแบบ Data Schema, พัฒนาอัลกอริทึมจำลองสัญญาณชีวภาพ และคำนวณ Pain Score AI
